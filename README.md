@@ -12,6 +12,17 @@
 
 
 
+## 🥳 使用效果
+
+使用前：
+
+![image-20250622140441681](.\images\image-20250622140441681.png)
+使用后：
+
+![image-20250622140200635](.\images\image-20250622140200635.png)
+
+
+
 ## 🚀 快速开始
 
 ### 安装依赖
@@ -88,8 +99,6 @@ Muse质疑假设 → Cognito用更强证据完善
 4. **置信度跟踪**: 量化分析质量和确定性
 
 ## ⭐ Star History
-
-## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=oDaiSuno/DuAI&type=Date)](https://www.star-history.com/#oDaiSuno/DuAI&Date)
 
