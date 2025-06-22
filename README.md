@@ -98,10 +98,6 @@ Muse质疑假设 → Cognito用更强证据完善
 3. **步骤控制**: 强制最小步骤数，保证分析深度
 4. **置信度跟踪**: 量化分析质量和确定性
 
-## ⭐ Star History
-
-<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://www.star-history.com/embed?secret=Z2hwX3psOGdxbE56VzNLVnlBTmVzV1ZRWXNBU0l2UHN1QTJxd010aA==#oDaiSuno/DuAI&Date" frameBorder="0"></iframe>
-
 ---
 
 <div align="center">
