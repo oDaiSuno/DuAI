@@ -100,7 +100,7 @@ Muse质疑假设 → Cognito用更强证据完善
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=oDaiSuno/DuAI&type=Date)](https://www.star-history.com/#oDaiSuno/DuAI&Date)
+<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://www.star-history.com/embed?secret=Z2hwX3psOGdxbE56VzNLVnlBTmVzV1ZRWXNBU0l2UHN1QTJxd010aA==#oDaiSuno/DuAI&Date" frameBorder="0"></iframe>
 
 ---
 
