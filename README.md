@@ -89,13 +89,13 @@ Muse质疑假设 → Cognito用更强证据完善
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=your-username/DuAI&type=Date)](https://star-history.com/#your-username/DuAI&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=oDaiSuno/DuAI&type=Date)](https://star-history.com/#oDaiSuno/DuAI&Date)
 
 ---
 
 <div align="center">
 让AI辩论起来，让洞察更深刻！🎭✨
 
-[⭐ 如果这个项目对你有帮助，请给个Star！](https://github.com/your-username/DuAI)
+[⭐ 如果这个项目对你有帮助，请给个Star！](https://github.com/oDaiSuno/DuAI)
 
 </div>
